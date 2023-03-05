@@ -13,7 +13,7 @@ import org.json.*;
 public class Main {
   public static void main(String[] args) throws IOException, InterruptedException, URISyntaxException {
 
-    String ApiKey = "4183213c-37c6-4fc9-98b8-1d5820ba4bce";
+    String ApiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     System.out.println("Введите что ищем:");
     Scanner sc = new Scanner(System.in);
     String name = sc.nextLine();
